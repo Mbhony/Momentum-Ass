@@ -1,0 +1,23 @@
+Reasons for using RestAssured:
+
+- It provides fluent & intuitive API, which makes it easy to read and write test cases.
+- built-in support for handling JSON and XML responses.
+- offers extensive validations.
+- supports different types of authentication mechanisms.
+
+Reasons for using CodeceptJS:
+
+- It has multiple testing tools in that one framework.
+- It cuts down on configuration of resources and easy to use.
+- It is extensible.
+- tests are simple to read and maintain.
+
+
+Reasons for using jmeter:
+
+- You are able to do live test run monitoring.
+- You are able to run tests on a larger number of application types
+- Jmeter provides user friendly UI for creating load tests.
+- Easy to configure and manage.
+- supports multiple threading.
+
